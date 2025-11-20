@@ -38,11 +38,10 @@ Me apasiona unir **minería del cobre + visión hiperespectral + aprendizaje aut
 ---
 
 ## 📫 Contacto
-- Email: _tu_correo@ejemplo.com_  
-- LinkedIn: _agrega tu link_  
+- Email: mzuniga@alges.cl
+- LinkedIn: www.linkedin.com/in/mizv 
 - GitHub: **@<tu-usuario>**
 
-> _“Modelar bien el mineral es modelar mejor la decisión.”_
 
 
 <!--
