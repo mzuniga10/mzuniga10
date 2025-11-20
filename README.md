@@ -1,6 +1,6 @@
 # ¡Hola! Soy Matías Zúñiga 👋
 
-**Ingeniero Civil Metalúrgico** (U. de Chile) y estudiante del **Magíster en Ciencia de Datos**.  
+**Ingeniero Civil Metalúrgico** y estudiante del **Magíster en Ciencia de Datos (U de Chile)**.  
 Trabajo en **ALGES–AMTC (U. de Chile)** en modelamiento avanzado de variables mineralógicas.  
 Me apasiona unir **minería del cobre + visión hiperespectral + aprendizaje automático** para monitorear y optimizar procesos.
 
