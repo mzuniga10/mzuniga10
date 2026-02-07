@@ -40,7 +40,7 @@ Me apasiona unir **minería del cobre + visión hiperespectral + aprendizaje aut
 ## 📫 Contacto
 - Email: mzuniga@alges.cl
 - LinkedIn: www.linkedin.com/in/mizv 
-- GitHub: **@<tu-usuario>**
+- GitHub: https://github.com/mzuniga10
 
 
 
