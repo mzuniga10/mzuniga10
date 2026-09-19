@@ -3,7 +3,7 @@
 **Ingeniero Civil Metalúrgico** y estudiante del **Magíster en Ciencia de Datos (Universidad de Chile)**.
 Investigador en **ALGES–AMTC (U. de Chile)**, donde trabajo en modelamiento avanzado de variables para minería.
 
-Me muevo en la intersección entre **procesos mineros, sensores y modelos probabilísticos**: me interesa medir lo que hoy no se mide y, cuando se mide, y saber cuánto confiar en la estimación.
+Me muevo en la intersección entre **procesos mineros, sensores y modelos probabilísticos**.
 
 ---
 
