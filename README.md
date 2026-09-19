@@ -31,13 +31,17 @@ El foco es la **transferibilidad entre químicas** (NMC, LFP, LCO) con incertidu
 
 ## 🧪 Proyectos destacados
 
-**Stochastic Imaging Spectroscopy (SIS)** — línea de espectroscopía estocástica desarrollada por nuestro equipo en ALGES–AMTC.
-
-**Sample Auditor** — herramienta para comparar distribuciones de píxeles y detectar muestras atípicas mediante Jensen–Shannon.
+**Scanner hiperespectral de laboratorio (ALGES, U. de Chile)** — equipo para caracterización espectral de muestras. Responsable del modelado 3D completo y del diseño de las piezas impresas en 3D que lo componen, desde el CAD y los planos hasta la integración en el equipo final.
 
 **Scanner hiperespectral para correa transportadora** — diseño e integración de un equipo de medición en línea sobre cinta, pensado para operar en condiciones de faena y permitir mantención sin detener la producción.
 
 **Maqueta instrumentada de equipos LHD** — sistema en escala con control de movimiento, sensores de posición y lógica de operación programada, usado como banco de pruebas.
+
+**Stochastic Imaging Spectroscopy (SIS)** — línea de espectroscopía estocástica desarrollada por nuestro equipo en ALGES–AMTC.
+
+**Sample Auditor** — herramienta para comparar distribuciones de píxeles y detectar muestras atípicas mediante Jensen–Shannon.
+
+
 
 ---
 
